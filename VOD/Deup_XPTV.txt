@@ -33,3 +33,4 @@ ikun,https://ikunzyapi.com/api.php/provide/vod/
 最大,http://zuidazy.me/api.php/provide/vod/
 火狐,https://hhzyapi.com/api.php/provide/vod/
 新浪,https://api.xinlangapi.com/xinlangapi.php/provide/vod/
+魔抓,https://mozhuazy.com/api.php/provide/vod/
