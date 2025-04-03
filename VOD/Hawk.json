@@ -16,27 +16,51 @@
         "endpoint": "https://9228.eu/youtube/info",
     },
     {
-        "id": "XPTV",
-        "name": "XPTV",
-        "desc": "XPTV",
+        "id": "VOD1",
+        "name": "VOD1",
+        "desc": "VOD1",
         "type": "vod",
         "rule": "",
         "cache": 21600,
-        "author": "purkylin",
-        "version": "0.0.2",
+        "author": "piaoranyuyun",
+        "version": "0.0.1",
         "update_time": "2025-03-29T16:37:00Z",
         "endpoint": "https://github.moeyy.xyz/https://raw.githubusercontent.com/piaoranyuyun/XPTV/main/VOD/XPTV.json"
     },
     {
-        "id": "XPAV",
-        "name": "XPAV",
-        "desc": "XPAV",
+        "id": "VOD2",
+        "name": "VOD2",
+        "desc": "VOD2",
         "type": "vod",
         "cache": 21600,
-        "author": "purkylin",
-        "version": "0.0.3",
+        "author": "piaoranyuyun",
+        "version": "0.0.1",
         "update_time": "2025-03-30T16:37:00Z",
         "adult": true,
         "endpoint": "https://github.moeyy.xyz/https://raw.githubusercontent.com/piaoranyuyun/XPTV/main/VOD/XPAV.json"
+    }
+    {
+        "id": "CMS1",
+        "name": "CMS1",
+        "desc": "CMS1",
+        "type": "cms",
+        "cache": 21600,
+        "author": "piaoranyuyun",
+        "version": "0.0.1",
+        "update_time": "2025-03-30T16:37:00Z",
+        "adult": true,
+        "endpoint": "https://github.moeyy.xyz/https://raw.githubusercontent.com/piaoranyuyun/XPTV/main/CMS/XPAV.json"
+    }
+    {
+        "id": "CMS2",
+        "name": "CMS2",
+        "desc": "CMS2",
+        "type": "cms",
+        "cache": 21600,
+        "author": "piaoranyuyun",
+        "version": "0.0.1",
+        "update_time": "2025-03-30T16:37:00Z",
+        "adult": true,
+        "endpoint": "https://github.moeyy.xyz/https://raw.githubusercontent.com/piaoranyuyun/XPTV/main/CMS/XPAV.json"
     }
 ]
